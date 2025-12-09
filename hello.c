@@ -1,1 +1,2 @@
 #includ<stdio.h>
+printf()
